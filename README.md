@@ -1,4 +1,4 @@
-<h1 align=center>"Hi 👋, I'm Bill Funcheon</h1>
+<h1 align=center>Hi 👋, I'm Bill Funcheon</h1>
 
 <p align=center>I am a software engineer passionate about designing elegant and robust software.</p>
 
