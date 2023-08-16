@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align=center>"Hi 👋, I'm Bill Funcheon</h1>
+
+<p align=center>I am a software engineer passionate about designing elegant and robust software.</p>
+
+<p align=center>🌱 I’m currently learning about web technologies in Python & Typescript</p>
+
+<p align=center> 📫 The best way to reach me is through my email: bfunch13 'at' gmail 'dot' com</p>
 
 <!--
 **wfuncheon/wfuncheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
